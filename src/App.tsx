@@ -58,13 +58,13 @@ function App() {
         <footer className="bg-white mt-12">
           <div className="max-w-7xl mx-auto px-4 py-6 sm:px-6 lg:px-8">
             <div className="flex justify-center space-x-6">
-              <a href="https://github.com" className="text-gray-500 hover:text-gray-700">
+              <a href="https://github.com/shreyazh" className="text-gray-500 hover:text-gray-700">
                 <Github size={24} />
               </a>
-              <a href="https://linkedin.com" className="text-gray-500 hover:text-gray-700">
+              <a href="https://linkedin.com/in/shreyashsrivastva" className="text-gray-500 hover:text-gray-700">
                 <Linkedin size={24} />
               </a>
-              <a href="mailto:example@email.com" className="text-gray-500 hover:text-gray-700">
+              <a href="mailto:usershreyash@gmail.com" className="text-gray-500 hover:text-gray-700">
                 <Mail size={24} />
               </a>
             </div>
