@@ -6,13 +6,14 @@ interface Certificate {
   issuer: string;
   date: string;
   image: string;
+  link: 
 }
 
 const certificates: Certificate[] = [
   {
     id: 1,
     name: "Advanced Web Development",
-    issuer: "Tech Academy",
+    issuer: "Udemy",
     date: "2023",
     image: "https://images.unsplash.com/photo-1589330694653-ded6df03f754?auto=format&fit=crop&q=80&w=800"
   },
